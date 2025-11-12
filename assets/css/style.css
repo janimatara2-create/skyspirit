@@ -2895,6 +2895,7 @@ section {
 
 .site-logo {
   margin-right: 100px;
+  width: 16%;
 }
 @media only screen and (max-width: 991px) {
   .site-logo {
